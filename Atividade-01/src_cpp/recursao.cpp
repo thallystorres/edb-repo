@@ -8,3 +8,4 @@ int recursao(const std::string &str, char alvo)
     }
     return (str[0] == alvo ? 1 : 0) + recursao(str.substr(1), alvo);
 }
+

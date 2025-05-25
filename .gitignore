@@ -1,6 +1,9 @@
 # Vscode annoying folder
 .vscode
 
+# Pasta da matéria de LP
+lp
+
 # Prerequisites
 *.d
 
